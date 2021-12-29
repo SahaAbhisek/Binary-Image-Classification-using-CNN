@@ -12,8 +12,12 @@ pip install -r requiremets.txt
 
 ## Prediction Results
 <p align="center">
-  <img src="https://github.com/SahaAbhisek/Binary-Image-Classification-using-CNN/blob/main/images/predictions.png" width="650" hight="650 title="Prediction Results">
+  <img src="https://github.com/SahaAbhisek/Binary-Image-Classification-using-CNN/blob/main/images/predictions.png" width="650" hight="650" title="Prediction 
+Results">
 </p>
+
 We get more than 70% accuracy in predicting train and validation images.
+
+
 ## License
 [SahaAbhisek](https://github.com/SahaAbhisek/)
