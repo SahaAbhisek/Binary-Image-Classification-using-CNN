@@ -10,7 +10,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install -r requiremets.txt
 ```
 
-
+![Optional Text](../main/image/predictions.png)
 
 ## License
 [SahaAbhisek](https://github.com/SahaAbhisek/)
