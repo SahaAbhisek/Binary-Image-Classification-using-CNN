@@ -9,9 +9,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install -r requiremets.txt
 ```
-<p align="center">
-  <img src="https://github.com/SahaAbhisek/Binary-Image-Classification-using-CNN/blob/main/images/predictions.png" width="350" title="hover text">
-</p>
 
+## Prediction Results
+<p align="center">
+  <img src="https://github.com/SahaAbhisek/Binary-Image-Classification-using-CNN/blob/main/images/predictions.png" width="650" hight="650 title="Prediction Results">
+</p>
+We get more than 70% accuracy in predicting train and validation images.
 ## License
 [SahaAbhisek](https://github.com/SahaAbhisek/)
