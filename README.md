@@ -10,8 +10,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install -r requiremets.txt
 ```
 <p align="center">
-  <img src="/image/predictions.png" width="350" title="hover text">
-  <img src="/image/predictions.png" width="350" alt="accessibility text">
+  <img src="https://github.com/SahaAbhisek/Binary-Image-Classification-using-CNN/blob/main/images/predictions.png" width="350" title="hover text">
 </p>
 
 ## License
